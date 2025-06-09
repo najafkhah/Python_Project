@@ -17,8 +17,6 @@ This project explores patterns in financial transactions to identify potential f
 
 - Fraudulent transactions were evenly distributed across global cities such as Toronto, Berlin, and Sydney.  
 - Online and utilities merchant categories showed higher total transaction amounts.  
-- Most frauds occurred through ATM and mobile devices.  
-- Transaction types like transfer and deposit appeared more frequently in fraudulent activity.  
 
 ---
 
@@ -39,8 +37,3 @@ Despite visible variations in transaction types and merchant categories, statist
 
 ---
 
-## Future Directions
-
-- Building predictive models (e.g., logistic regression, decision trees)  
-- Analysing temporal or sequential patterns  
-- Feature engineering for deeper behavioural insights 

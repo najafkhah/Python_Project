@@ -24,8 +24,8 @@ This project explores patterns in financial transactions to identify potential f
 
 | Hypothesis                                        | Test       | p-value | Result                   |
 |--------------------------------------------------|------------|---------|--------------------------|
-| Fraud likelihood differs by payment channel      | Chi-Square | 1.000   | ❌ No significant association |
-| Fraud likelihood is associated with transaction location | Chi-Square | 1.000   | ❌ No significant association |
+| Fraud likelihood differs by payment channel      | Chi-Square | 1.000   |  No significant association |
+| Fraud likelihood is associated with transaction location | Chi-Square | 1.000   |  No significant association |
 
 ✅ Hypothesis testing used a 5% significance level (α = 0.05)
 
